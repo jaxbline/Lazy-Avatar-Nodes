@@ -15,5 +15,6 @@ Quick and lazy way to set up shader nodes in blender for Poi's textures ??
 * Open Blender
 * Install Poiyomi Nodes in plug-ins 
 * Click the material you wanna add the nodes to
+* Goto the N-Panel under "Tools"
 * Insert your needed Textures into their slots
 * Hit create
