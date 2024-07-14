@@ -1,8 +1,8 @@
-# PoiyomiNodes
+# Lazy Avatar Nodes
 Quick and lazy way to set up shader nodes in blender for Poi's textures ??
 
+![image](https://github.com/user-attachments/assets/89f1c2cb-81d8-4349-90a3-53b6bcdfccec)
 
-![image](https://github.com/jaxbline/PoiyomiNodes/assets/65150735/99f4147c-1af2-4d94-8897-a38b7ad3f6d7)
 
 
 # Requirements
