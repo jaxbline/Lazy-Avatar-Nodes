@@ -3,6 +3,7 @@ Quick and lazy way to set up shader nodes in blender for Poi's textures ??
 
 ![image](https://github.com/user-attachments/assets/89f1c2cb-81d8-4349-90a3-53b6bcdfccec)
 
+![LobFile com-ENeP](https://github.com/user-attachments/assets/16a3acf1-e789-40af-831e-9bd6f6c30626)
 
 
 # Requirements
