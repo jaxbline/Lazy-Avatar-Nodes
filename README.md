@@ -14,9 +14,16 @@ Got issues? Suggestions? Contact me!
 * Blender 4.0 +
 
 
-# Installation/Usage
+# Installation
 * [Goto releases](https://github.com/jaxbline/PoiyomiNodes/releases)
 * Download latest
 * Open Blender
 * Goto Edit -> Preferences -> Add-ons
 * Install Lazy Avatar Nodes
+
+
+# Usage
+* Press N then goto Tools
+* Click the material you want to apply textures to
+* Now if your model uses packed maps (Metallic/Smoothness) make sure to enable it through the button otherwise turn it off and apply your roughness and metallic maps as is
+* Click create nodes
